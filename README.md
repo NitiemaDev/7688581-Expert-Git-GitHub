@@ -11,8 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+une installation en local de Git ;
 
+un éditeur de texte comme Sublime Text ;
+
+un compte personnel GitHub.
 ```
 
 ### Installation
@@ -21,7 +24,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+1- Forker le repository (creer une copie du repo sur notre compte GitHub)
+2- cloner le respository en local sur notre ordinateur
 ```
 
 
@@ -29,7 +33,7 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+On execute les tests sur notre ordinateur pour etre sur que tout fonctionne comme prevu
 ```
 
 
@@ -38,7 +42,10 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+1- git add
+2- git commit -m "Message du commit et numero de l'issue"
+3- git push vers le repo sur notre compte GitHub
+4- Faire un pull request.
 ```
 
 ## Technologies :
@@ -54,7 +61,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **Nitiema Allassane**
 
 ## License
 
