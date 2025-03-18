@@ -61,7 +61,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Nitiema Allassane**
+* **O.C**
 
 ## License
 
