@@ -11,11 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-une installation en local de Git ;
+Vous devez avoir git sur votre ordinateur;
 
-un éditeur de texte comme Sublime Text ;
+Telecharger un editeur de texte comme Visual Studio Code ;
 
-un compte personnel GitHub.
+Creer un compte presonnel GitHub.
 ```
 
 ### Installation
