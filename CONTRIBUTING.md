@@ -9,7 +9,7 @@ Open Transport recherche des contributeurs pour tous types de tâches : amélior
 
 
 ## Comment Contribuer a ce projet Open Source ?
-## Conseil pour commencer aider dans le projet Open Source ?
+### Conseil pour commencer aider dans le projet Open Source.
 
 
 
